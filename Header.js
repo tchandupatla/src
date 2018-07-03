@@ -4,7 +4,7 @@ class Header extends React.Component {
     render() {
        return (
           <div>
-            <p>See if true or false</p>
+            <p></p>
            
            
           </div>
